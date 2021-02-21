@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(235, 231, 231);
+}
+
+h1,h2,h3,h4,h5{
+    line-height: 1.5;
+    font-weight: 300;
+    margin: 0.5em 0;
+    color: cornsilk;
+}
+ h1{
+     font-size: 2.5em;
+ }
+ h2{
+    font-size: 2em;
+}
+h3{
+    font-size: 1.6em;
+}
+h4{
+    font-size: 1.2em;
+}
+h5{
+    font-size: 1.2em; 
+}
+p, label, strong{
+    line-height: 2;
+    font-size: 0.85em;
+    font-weight: 300;
+}
+a{
+    text-decoration: none;
+}
